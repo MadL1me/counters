@@ -11,7 +11,7 @@ pub struct Counter {
 #[near_bindgen]
 impl Counter {
     // Public read-only method: Returns the counter value.
-    pub fn get_num(&self) -> i8 {
+    ub fn get_num(&self) -> i8 {
         return self.val;
     }
 
