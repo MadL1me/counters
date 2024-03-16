@@ -7,3 +7,5 @@ This repository contains examples for a simple counter in both Rust and JavaScri
 - [Counter TS Examples](contract-ts)
 - [Counter RS Example](contract-rs)
 - [Counter Frontend Example](frontend)
+
+test
