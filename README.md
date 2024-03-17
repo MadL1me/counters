@@ -1,6 +1,6 @@
 # Counter Examples
 
-o
+oooo
 
 This repository contains examples for a simple counter in both Rust and JavaScript, and an examples of a frontend interacting with a Counter smart contract. 
 
