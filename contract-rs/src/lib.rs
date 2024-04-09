@@ -4,7 +4,7 @@ use near_sdk::{log, near_bindgen};
 
 #[near_bindgen]
 #[derive(Default, BorshDeserialize, BorshSerialize)]
-pub struct Counter {
+ub struct Counter {
     val: i8,
 }
 
