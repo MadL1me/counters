@@ -2,6 +2,8 @@
 
 The smart contract exposes methods to interact with a counter stored in the NEAR network.
 
+Test
+
 ```rust
 // Public read-only method: Returns the counter value.
 pub fn get_num(&self) -> i8 {
