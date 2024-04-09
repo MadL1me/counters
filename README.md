@@ -1,9 +1,5 @@
 # Counter Examples
 
-ooooasdasd:w
-asdasdasd:
-
-
 This repository contains examples for a simple counter in both Rust and JavaScript, and an examples of a frontend interacting with a Counter smart contract. 
 
 Some testing changes more more
@@ -14,6 +10,4 @@ Some testing changes more more
 - [Counter RS Example](contract-rs)
 - [Counter Frontend Example](frontend)
 
-taaest2
-<asdasdsub>
-tasdasdsest
+
